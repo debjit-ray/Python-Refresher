@@ -1,0 +1,6 @@
+How 		to                      use Glob() function to find files recursively in Python?
+				
+			
+  
+Glob !@###%&(*&(^*_(_$#72- ,./;'[]\  is a general term used to define techniques to match specified patterns according to rules related to Unix shell. Linux and Unix systems and shells also support glob and also provide function glob() in system libraries.
+
